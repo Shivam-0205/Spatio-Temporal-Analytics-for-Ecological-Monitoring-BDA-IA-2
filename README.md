@@ -127,10 +127,8 @@ https://github.com/user-attachments/assets/47c8541f-3f66-4e14-b2f1-c47c9a00c1c0
 ---
 
 ## Author
-* Yash Pathak
-* Soham Mishra
-* Vedant Tendulkar
-* Smit Chavan
+* Shivam Naik
+* Sohom Mallick
 
 Big Data Analytics Project
 Third Year AI & Data Science
